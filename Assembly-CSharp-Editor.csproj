@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{39B84103-BB8A-82D7-502B-18B4C56CC435}</ProjectGuid>
+    <ProjectGuid>{2C72DC45-1FB0-FB2A-9B80-2B868D834EEA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -108,27 +108,33 @@
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEditor.Android.Extensions">
+ <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
+ <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
+ <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
+ </Reference>
  <Reference Include="RAIN">
- <HintPath>D:/TUGAS UNITY/tugasaaaa/tugasaaaa/Assets/RAIN/RAIN.dll</HintPath>
+ <HintPath>D:/flyingbebek/Assets/RAIN/RAIN.dll</HintPath>
  </Reference>
  <Reference Include="RAINMetaform">
- <HintPath>D:/TUGAS UNITY/tugasaaaa/tugasaaaa/Assets/RAIN/RAINMetaform.dll</HintPath>
+ <HintPath>D:/flyingbebek/Assets/RAIN/RAINMetaform.dll</HintPath>
  </Reference>
  <Reference Include="RAINEditor">
- <HintPath>D:/TUGAS UNITY/tugasaaaa/tugasaaaa/Assets/RAIN/Editor/RAINEditor.dll</HintPath>
+ <HintPath>D:/flyingbebek/Assets/RAIN/Editor/RAINEditor.dll</HintPath>
  </Reference>
  <Reference Include="RAINMetaformEditor">
- <HintPath>D:/TUGAS UNITY/tugasaaaa/tugasaaaa/Assets/RAIN/Editor/RAINMetaformEditor.dll</HintPath>
+ <HintPath>D:/flyingbebek/Assets/RAIN/Editor/RAINMetaformEditor.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{9A5982A3-6A02-4A11-E263-E77362B46225}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{498103F2-11AE-87D9-FAA7-8800BDC4A998}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{D54216A6-2797-D264-AB1D-A51A8AFD2413}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{3021ECB9-224C-4342-56A0-565D0F78628C}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

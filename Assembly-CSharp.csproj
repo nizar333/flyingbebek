@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D54216A6-2797-D264-AB1D-A51A8AFD2413}</ProjectGuid>
+    <ProjectGuid>{3021ECB9-224C-4342-56A0-565D0F78628C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -52,6 +52,8 @@
      <Compile Include="Assets\Scripts\LoadSceneOnClick.cs" />
      <Compile Include="Assets\Scripts\Pohon.cs" />
      <Compile Include="Assets\Scripts\Point.cs" />
+     <Compile Include="Assets\Scripts\ScoreManager.cs" />
+     <Compile Include="Assets\Scripts\enemy.cs" />
      <Compile Include="Assets\Scripts\pinggiran.cs" />
      <Compile Include="Assets\Scripts\player.cs" />
      <Compile Include="Assets\Scripts\testhit.cs" />
@@ -86,15 +88,15 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="RAIN">
- <HintPath>D:/TUGAS UNITY/tugasaaaa/tugasaaaa/Assets/RAIN/RAIN.dll</HintPath>
+ <HintPath>D:/flyingbebek/Assets/RAIN/RAIN.dll</HintPath>
  </Reference>
  <Reference Include="RAINMetaform">
- <HintPath>D:/TUGAS UNITY/tugasaaaa/tugasaaaa/Assets/RAIN/RAINMetaform.dll</HintPath>
+ <HintPath>D:/flyingbebek/Assets/RAIN/RAINMetaform.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{9A5982A3-6A02-4A11-E263-E77362B46225}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{498103F2-11AE-87D9-FAA7-8800BDC4A998}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -7,9 +7,10 @@ public class testhit : MonoBehaviour {
 
 	public void OnTriggerEnter(Collider other)
 	{		
-		if(other.gameObject.tag == "batang")
-		Debug.Log("hit");
-		gameObject.SetActive(false);
-		canvas.gameObject.SetActive(true);
+		if (other.gameObject.tag == "batang") {
+			Debug.Log ("batang");
+			gameObject.SetActive (true);
+			canvas.gameObject.SetActive (true);
+		}
 	}
 }

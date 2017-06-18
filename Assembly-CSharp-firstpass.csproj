@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9A5982A3-6A02-4A11-E263-E77362B46225}</ProjectGuid>
+    <ProjectGuid>{498103F2-11AE-87D9-FAA7-8800BDC4A998}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -120,10 +120,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="RAIN">
- <HintPath>D:/TUGAS UNITY/tugasaaaa/tugasaaaa/Assets/RAIN/RAIN.dll</HintPath>
+ <HintPath>D:/flyingbebek/Assets/RAIN/RAIN.dll</HintPath>
  </Reference>
  <Reference Include="RAINMetaform">
- <HintPath>D:/TUGAS UNITY/tugasaaaa/tugasaaaa/Assets/RAIN/RAINMetaform.dll</HintPath>
+ <HintPath>D:/flyingbebek/Assets/RAIN/RAINMetaform.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
