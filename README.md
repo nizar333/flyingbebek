@@ -19,21 +19,36 @@ this game has common default control. here is..
 *****
 ### Player
 *****
-
+![alt text](https://github.com/nizar333/flyingbebek/blob/master/entity/player.png "Player")
 *****
 ### Obstacle
 *****
-
+![alt text](https://github.com/nizar333/flyingbebek/blob/master/entity/obstacle.png "Obstacle")
 *****
 ### Coin
 *****
-
+![alt text](https://github.com/nizar333/flyingbebek/blob/master/entity/coin.png "Coin")
 *****
 ### enemy
 *****
-
+![alt text](https://github.com/nizar333/flyingbebek/blob/master/entity/enemy.png "Enemy")
 *****
 ### environment
 *****
-
+![alt text](https://github.com/nizar333/flyingbebek/blob/master/entity/environment.png "Environment")
 *****
+
+## Features
+
+| No     | Feature                                                                                                          |
+| ------ |:------------------------------------------------------------------------------------------------------------------
+| 1      | Your score define by how much you can get the coin  |
+| 2      | The player will dead when you crashing the obstacle |
+
+
+## Here's the gameplay video. enjoy that
+<a href="https://youtu.be/W9EGmnXMJZA">https://youtu.be/W9EGmnXMJZA</a>
+
+# WIDYATAMA UNIVERSITY
+### 061303004 - Enjang Winandar
+### 061303012 - Nizar Sapta Wiguna
